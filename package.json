@@ -1,0 +1,27 @@
+{
+  "name": "api_295",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony10012/API_295.git"
+  },
+  "author": "Anthony Simond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony10012/API_295/issues"
+  },
+  "homepage": "https://github.com/Anthony10012/API_295#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
