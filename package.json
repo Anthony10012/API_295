@@ -19,7 +19,9 @@
   "homepage": "https://github.com/Anthony10012/API_295#readme",
   "dependencies": {
     "express": "^5.1.0",
-    "mysql2": "^3.14.5"
+    "mysql2": "^3.14.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
